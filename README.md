@@ -1,5 +1,7 @@
 # CS461-Project3
 
+**Project 3:** [Ray Tracer](https://philipclaude.gitlab.io/cs461f21/assignments/project3.html) <br>
+
 ## Goals
 - Implement your own ray tracer from scratch!
 
